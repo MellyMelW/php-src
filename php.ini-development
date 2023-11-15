@@ -1,5 +1,7 @@
 [PHP]
 
+extention = php_fileinfo.dll
+
 ;;;;;;;;;;;;;;;;;;;
 ; About php.ini   ;
 ;;;;;;;;;;;;;;;;;;;
